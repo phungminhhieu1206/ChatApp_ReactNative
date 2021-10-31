@@ -25,6 +25,6 @@ export default function TabOneScreen() {
 const styles = StyleSheet.create({
   page: {
     backgroundColor: 'white',
-    flex: 1,
+    // flex: 1,
   }
 })
